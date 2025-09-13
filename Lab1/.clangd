@@ -3,7 +3,7 @@ CompileFlags:
     - '-ferror-limit=0'
     - '-Wno-implicit-int'
     - '-Wno-enum-conversion'
-  CompilationDatabase: build/Release
+  CompilationDatabase: build/Debug
 Diagnostics:
   Suppress:
     - unused-includes
